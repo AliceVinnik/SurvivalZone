@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 451745afe005e4b6fb3727477af4c8f4, type: 3}
+  m_Name: CoreBootstrapSettings
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 1438939169968676214, guid: 53057061f98124d18b2030c774aac62d, type: 3}
+  - {fileID: 4446026500840088521, guid: 994c7e7bbe4de4e62a50478757df4d2c, type: 3}
+  - {fileID: 987132487189744678, guid: 7dbb9552c519e40c580b60a8a89f57d3, type: 3}
+  - {fileID: 1210506653528330218, guid: 6356e9078e1e94b8cb6298e90f2c189d, type: 3}
+  - {fileID: 8279247558625655153, guid: c9fe542e3b11e49b783ab0a9da3e1b1a, type: 3}
+  - {fileID: 2152038290214331473, guid: 41bf87a438cb746ada428a8e862c2823, type: 3}
+  distributorType: 0

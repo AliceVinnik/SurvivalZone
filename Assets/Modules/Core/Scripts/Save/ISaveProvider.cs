@@ -1,0 +1,11 @@
+/*AliceVinnik*/
+
+public interface ISaveProvider
+{
+    void SetInt(string key, int value);
+    int GetInt(string key, int defaultValue = 0);
+    void SetFloat(string key, float value);
+    float GetFloat(string key, float defaultValue = 0f);
+    void SetString(string key, string value);
+    string GetString(string key, string defaultValue = "");
+}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0707554fa3949a4997994da88829ff, type: 3}
+  m_Name: ModifierData_Saw_Init
+  m_EditorClassIdentifier: 
+  type: 0
+  name: Saw
+  description: Create saw
+  icon: {fileID: 0}
+  iconModifier: {fileID: 0}
+  prefab: {fileID: 7321448723388333042, guid: 4b45f3b90fcca49cd93e304dcf4dc352, type: 3}
+  chanseToDrop: 1
+  canBeDroppedMax: 1
+  isInitialiser: 1
+  isChangeByPerentage: 0
+  isIncreaseCount: 0
+  isIncresaeSpeed: 0
+  speed: 22
+  isIncresaeDelay: 0
+  delay: 0
+  isIncresaeRadius: 0
+  radius: 1.2
+  isIncresaeDamage: 0
+  damage: 5
+  isIncresaeHeal: 0
+  heal: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0707554fa3949a4997994da88829ff, type: 3}
+  m_Name: ModifierData_Firewave_IncreaseSpeed
+  m_EditorClassIdentifier: 
+  type: 2
+  name: Firewave
+  description: 'Speed: +25%'
+  icon: {fileID: 0}
+  iconModifier: {fileID: 0}
+  prefab: {fileID: 7173450209879420341, guid: 31d034e1749a94f74ab8b23148d129d0, type: 3}
+  chanseToDrop: 1
+  canBeDroppedMax: 3
+  isInitialiser: 0
+  isChangeByPerentage: 1
+  isIncreaseCount: 0
+  isIncresaeSpeed: 1
+  speed: 0.25
+  isIncresaeDelay: 0
+  delay: 0
+  isIncresaeRadius: 0
+  radius: 0
+  isIncresaeDamage: 0
+  damage: 0
+  isIncresaeHeal: 0
+  heal: 0

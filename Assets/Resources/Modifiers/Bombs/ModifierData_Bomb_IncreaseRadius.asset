@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0707554fa3949a4997994da88829ff, type: 3}
+  m_Name: ModifierData_Bomb_IncreaseRadius
+  m_EditorClassIdentifier: 
+  type: 1
+  name: Bombs
+  description: 'Radius: +25%'
+  icon: {fileID: 0}
+  iconModifier: {fileID: 0}
+  prefab: {fileID: 3993222753518476229, guid: 352979d98072748d3b22815c70c6e920, type: 3}
+  chanseToDrop: 1
+  canBeDroppedMax: 3
+  isInitialiser: 0
+  isChangeByPerentage: 1
+  isIncreaseCount: 0
+  isIncresaeSpeed: 0
+  speed: 0
+  isIncresaeDelay: 0
+  delay: 0
+  isIncresaeRadius: 1
+  radius: 0.25
+  isIncresaeDamage: 0
+  damage: 0
+  isIncresaeHeal: 0
+  heal: 0

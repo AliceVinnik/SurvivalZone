@@ -1,0 +1,17 @@
+{
+    "name": "AV.Game",
+    "rootNamespace": "",
+    "references": [
+        "AV.Core",
+        "AV.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

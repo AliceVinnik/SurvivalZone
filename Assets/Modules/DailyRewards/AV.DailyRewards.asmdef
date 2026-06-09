@@ -1,0 +1,17 @@
+{
+    "name": "AV.DailyRewards",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ee3193a2c666e4bd9afcd0d9f6bfe91a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

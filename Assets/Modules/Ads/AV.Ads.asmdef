@@ -1,0 +1,16 @@
+{
+    "name": "AV.Ads",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ee3193a2c666e4bd9afcd0d9f6bfe91a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
